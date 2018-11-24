@@ -20,7 +20,12 @@ html
             )
             button#start Start test
       div.puzzleWrap
+        p Your current result:
+          span#count 0
+          img#clock(src='/walking-clock-preloader.gif')
         div#puzzle
         div#words
-    p#results Result sent!
+    div#results.container
+     p#result
+     button#again Run test once again
       

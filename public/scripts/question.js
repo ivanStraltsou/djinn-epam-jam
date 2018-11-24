@@ -825,40 +825,61 @@
 }(document, jQuery, wordfind));
 
 $(function () {
+  
   var words = ['account', 'money', 'interest', 'engineer'];
-  var wordsCount = words.length;
   var time;
+  var intervalId;
+  
+  function startTest() {
+    time = Date.now();
+    $('#words').text('');
+    $('#count').text('0')
+    var gamePuzzle = wordfindgame.create(
+        words,
+        '#puzzle',
+        '#words',
+        { height: 8,
+          width:10,
+          fillBlanks: true
+        });
+    // create just a puzzle, without filling in the blanks and print to console
+    var puzzle = wordfind.newPuzzle(
+        words,
+        {height: 5, width:15, fillBlanks: true}
+    );
+    wordfind.print(puzzle);
+  
+    intervalId = setInterval(function() {
+      $('#count').text(Number($('#count').text()) + 1);
+    }, 1000)
+  }
   
   // start a word find game
-  var gamePuzzle = wordfindgame.create(
-      words,
-      '#puzzle',
-      '#words',
-      { height: 8,
-        width:10,
-        fillBlanks: true
-      });
-  $('#solve').click( function() {
-    wordfindgame.solve(gamePuzzle, words);
-  });
-  // create just a puzzle, without filling in the blanks and print to console
-  var puzzle = wordfind.newPuzzle(
-      words,
-      {height: 5, width:15, fillBlanks: true}
-  );
-  wordfind.print(puzzle);
+
+  // $('#solve').click( function() {
+  //   wordfindgame.solve(gamePuzzle, words);
+  // });
+
   
   $('#start').click(function() {
+    startTest();
     $('.puzzleWrap').css('visibility', 'visible');
-    time = Date.now();
-  })
+  });
+  
+  $('#again').click(function() {
+    $('#results').css('visibility', 'hidden');
+    $('#game').css('display', 'block');
+    startTest();
+  });
   
   $(document).on('complete', function() {
+    clearInterval(intervalId);
     const user = $('#user').val();
     const result = Date.now() - time;
     
     $('#game').css('display', 'none');
     $('#results').css('visibility', 'visible');
+    $('#result').text('Your result: ' + result/1000 + 's');
     
     fetch('/results', {
       method: 'POST',
