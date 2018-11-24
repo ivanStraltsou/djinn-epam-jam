@@ -26,7 +26,7 @@ router.get('/json', async (ctx, next) => {
 router.get('/analytics-data', async (ctx, next) => {
     var client = elasticsearch.getClient();
 
-    var a = await client.search({
+    var telemetry = await client.search({
             index: 'telemetry',
             type: '_doc',
             body: {
@@ -41,7 +41,25 @@ router.get('/analytics-data', async (ctx, next) => {
                 size: 10000
         });
 
-    ctx.body = a
+    var productivity = await client.search({
+        index: 'cognitive-test',
+        type: '_doc',
+        body: {
+            query: {
+                range: {
+                    timestamp: {
+                        gte: "now-30m"
+                    }
+                }
+            }
+        },
+        size: 10000
+    });
+
+    ctx.body = {
+        telemetry: telemetry,
+        productivity: productivity
+    }
 })
 
 router.get('/analytics', async (ctx, next) => {

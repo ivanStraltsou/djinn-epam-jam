@@ -11,67 +11,79 @@
     }).then(function (resp) {
 
         var parameters = [
-            {name: 'CO2', min: 200, max: 800, color: '#004c6d'},
-            {name: 'Humidity', min: 30, max: 60, color: '#296080'},
-            {name: 'Light', min: 350, max: 700, color: '#437594'},
-            {name: 'Noise', min: -100, max: 30, color: '#5d8ba9'},
-            {name: 'Pressure', min: 0, max: 0, color: '#75a1be'},
-            {name: 'TVOC', min: 0, max: 0, color: '#8eb8d3'},
-            {name: 'Temperature', min: 21, max: 25, color: '#a7cfe9'},
-            {name: 'Vibration', min: 0, max: 0, color: '#c1e7ff'}
+            {key: 'CO2', min: 200, max: 800, color: '#004c6d'},
+            {key: 'Humidity', min: 30, max: 60, color: '#296080'},
+            {key: 'Light', min: 350, max: 700, color: '#437594'},
+            {key: 'Noise', min: -100, max: 30, color: '#5d8ba9'},
+            {key: 'Pressure', min: 0, max: 0, color: '#75a1be'},
+            {key: 'TVOC', min: 0, max: 0, color: '#8eb8d3'},
+            {key: 'Temperature', min: 21, max: 25, color: '#a7cfe9'},
+            {key: 'Vibration', min: 0, max: 0, color: '#c1e7ff'},
+            {key: 'result', name: "Productivity", min: 0, max: 0, color: '#00ff00'}
         ];
 
-        var plotData = resp.hits.hits.reduce(function (acc, hit) {
+        var telemetry = resp.telemetry.hits.hits;
+
+        var productivity = resp.productivity.hits.hits;
+
+        var combinedData = telemetry.concat(productivity);
+
+        var plotData = combinedData.reduce(function (acc, hit) {
 
             var source = hit._source;
 
+
             parameters.forEach(function(p, i) {
-                var traceData;
+                if (source.hasOwnProperty(p.key)) {
+                    var pName = p.name || p.key;
 
-                var pVal = source[p.name];
-                var pTime = moment(new Date(source.timestamp)).format('hh:mm:ss');
+                    var traceData;
 
-                if (!acc.hasOwnProperty(p.name)) {
-                    traceData = {
-                        x: [],
-                        y: [],
-                        z: [],
-                        text: [],
+                    var pVal = source[p.key];
+                    var pTime = moment(new Date(source.timestamp)).format('hh:mm:ss');
 
-                        type: 'scatter3d',
-                        mode: 'lines+markers',
-                        name: p.name,
-                        symbol: 'circle',
-                        line: {
-                            width: 3,
-                            color: p.color
-                        },
-                        marker: {
-                            size: 5,
-                            color: markerColor(p, pVal)
-                        },
-                        metrics: {
-                            min: pVal,
-                            max: pVal
-                        },
-                        hoverinfo: 'text'
-                    };
-                    acc[p.name] = traceData;
-                } else {
-                    traceData = acc[p.name];
-                }
+                    if (!acc.hasOwnProperty(pName)) {
+                        traceData = {
+                            x: [],
+                            y: [],
+                            z: [],
+                            text: [],
 
-                traceData.x.push(p.name);
-                traceData.y.push(pTime);
-                traceData.z.push(pVal);
-                traceData.text.push(`${p.name}<br>Time: ${pTime}<br>Value: ${pVal}`);
+                            type: 'scatter3d',
+                            mode: 'lines+markers',
+                            name: pName,
+                            symbol: 'circle',
+                            line: {
+                                width: 3,
+                                color: p.color
+                            },
+                            marker: {
+                                size: 5,
+                                color: markerColor(p, pVal)
+                            },
+                            metrics: {
+                                min: pVal,
+                                max: pVal
+                            },
+                            hoverinfo: 'text'
+                        };
+                        acc[pName] = traceData;
+                    } else {
+                        traceData = acc[pName];
+                    }
 
-                if (pVal < traceData.metrics.min) {
-                    traceData.metrics.min = pVal;
-                }
+                    traceData.x.push(pName);
+                    traceData.y.push(pTime);
+                    traceData.z.push(pVal);
+                    traceData.text.push(`${pName}<br>Time: ${pTime}<br>Value: ${pVal}`);
 
-                if (pVal > traceData.metrics.max) {
-                    traceData.metrics.max = pVal;
+                    if (pVal < traceData.metrics.min) {
+                        traceData.metrics.min = pVal;
+                    }
+
+                    if (pVal > traceData.metrics.max) {
+                        traceData.metrics.max = pVal;
+                    }
                 }
             });
 
@@ -92,10 +104,6 @@
                 // aspectratio: {
                 //     x: 1, y: 1, z: 100,
                 // },
-                xaxis: {
-                    title: 'ABC',
-                    tickvals: parameters
-                },
                 zaxis: {
                     rangemode: "tozero",
                     autorange: true
@@ -103,10 +111,13 @@
             }
         };
 
-        var orderedPlotData = parameters.map(function (e) {
-            return plotData[e.name]
-        });
-
+        var orderedPlotData = parameters.reduce(function (acc, e) {
+            var pName = e.name || e.key;
+            if (plotData.hasOwnProperty(pName)) {
+                acc.push(plotData[pName])
+            }
+            return acc;
+        }, []);
 
         Plotly.newPlot('plot', normalize(orderedPlotData), layout);
 
@@ -119,7 +130,7 @@
         return series.map(function (s) {
             var denom = s.metrics.max - s.metrics.min;
             s.z = s.z.map(function (v) {
-                return 50 + ((v - s.metrics.min) / denom);
+                return 50 + (denom === 0 ? 1 : ((v - s.metrics.min) / denom));
             });
 
             return s;
