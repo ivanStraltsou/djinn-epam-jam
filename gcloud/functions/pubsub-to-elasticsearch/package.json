@@ -1,0 +1,7 @@
+{
+  "name": "pubsub-to-elasticsearch",
+  "version": "0.0.1",
+  "dependencies": {
+    "elasticsearch": "^15.2.0"
+  }
+}
