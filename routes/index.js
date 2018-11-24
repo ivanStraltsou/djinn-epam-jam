@@ -1,12 +1,6 @@
 const router = require('koa-router')()
 const elasticsearch = require.main.require('../modules/elk/elastic-client')
 
-router.get('/', async (ctx, next) => {
-    await ctx.render('index', {
-        title: 'Hello Koa 2!'
-    })
-})
-
 router.post('/iot', async (ctx, next) => {
     var client = elasticsearch.getClient();
 
