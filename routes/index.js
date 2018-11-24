@@ -39,11 +39,12 @@ router.get('/analytics-data', async (ctx, next) => {
                 query: {
                         range: {
                             timestamp: {
-                                gte: "now-1h"
+                                gte: "now-10m"
                             }
                         }
                     }
-                }
+                },
+                size: 10000
         });
 
     ctx.body = a

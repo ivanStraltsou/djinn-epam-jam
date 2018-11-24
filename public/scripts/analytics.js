@@ -1,4 +1,5 @@
 (function () {
+
     fetch('/analytics-data', {
         method: 'GET',
         headers: {
@@ -8,7 +9,6 @@
     }).then(function (resp) {
         return resp.json();
     }).then(function (resp) {
-        console.log(resp.hits);
 
         var parameters = [
             'CO2',
@@ -20,15 +20,12 @@
             'Temperature',
             'Vibration'];
 
-        var rawData = [{}];
+        var plotData = resp.hits.hits.reduce(function (acc, hit) {
 
-        var plotData = rawData.reduce(function (acc, hit) {
             var source = hit._source;
 
-            console.log(source);
-
             parameters.forEach(function(p, i) {
-                var traceData = acc[p];
+                var traceData;
 
                 if (!acc.hasOwnProperty(p)) {
                     traceData = {
@@ -36,20 +33,23 @@
                         y: [],
                         z: [],
                         type: 'scatter3d',
-                        mode: 'lines+markers',
+                        mode: 'bars',
                         name: p,
                         size: 5,
                         symbol: 'circle',
-
+                        line: {width: 1}
                     };
                     acc[p] = traceData;
+                } else {
+                    traceData = acc[p];
                 }
 
-                traceData.x.push(source.timestamp);
-                traceData.y.push(source[p]);
-
-                return acc;
+                traceData.x.push(p);
+                traceData.y.push(moment(new Date(source.timestamp)).format('hh:mm:ss'));
+                traceData.z.push(source[p]);
             });
+
+            return acc;
         }, {});
 
         var layout = {
@@ -66,10 +66,16 @@
             return plotData[e]
         });
 
+        console.log(orderedPlotData);
+
         Plotly.newPlot('plot', orderedPlotData, layout);
 
     }, function (err) {
         console.trace(err.message);
     });
 
+
+    function normalize(series) {
+
+    }
 })();
