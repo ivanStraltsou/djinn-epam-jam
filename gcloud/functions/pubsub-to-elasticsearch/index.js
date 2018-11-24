@@ -6,8 +6,9 @@
  * @param {object} data The event payload.
  * @param {object} context The event metadata.
  */
-exports.publishToElasticsearch = async (event, context) => {
-    const pubsubMessage = event.data;
+const elasticsearch = require("elasticsearch");
+
+exports.publishToElasticsearch = async (pubsubMessage, context) => {
     if (pubsubMessage.data) {
         var message = Buffer.from(pubsubMessage.data, 'base64').toString();
 
@@ -17,10 +18,10 @@ exports.publishToElasticsearch = async (event, context) => {
             hosts: ["35.205.16.214:9200"]
         });
 
-        var a = await client.index({
+        console.info(await client.index({
             index: 'telemetry',
             type: "_doc",
             body: JSON.parse(message)
-        });
+        }));
     }
 };
