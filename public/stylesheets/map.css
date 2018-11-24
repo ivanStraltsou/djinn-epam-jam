@@ -1,0 +1,12 @@
+@keyframes circle_animation {
+    from {
+        stroke-width: 0;
+    }
+}
+
+.sensor {
+    stroke-width: 120;
+    stroke: #d35d47;
+    stroke-opacity: 0.7;
+    animation: circle_animation 0.7s linear infinite;
+}
