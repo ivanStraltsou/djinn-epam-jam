@@ -33,7 +33,7 @@ router.get('/analytics-data', async (ctx, next) => {
                 query: {
                         range: {
                             timestamp: {
-                                gte: "now-10m"
+                                gte: "now-5m"
                             }
                         }
                     }

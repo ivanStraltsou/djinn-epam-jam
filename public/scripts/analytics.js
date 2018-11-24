@@ -33,11 +33,15 @@
                         y: [],
                         z: [],
                         type: 'scatter3d',
-                        mode: 'bars',
+                        mode: 'lines+markers',
                         name: p,
-                        size: 5,
                         symbol: 'circle',
-                        line: {width: 1}
+                        line: {
+                            width: 3
+                        },
+                        marker: {
+                            size: 5
+                        }
                     };
                     acc[p] = traceData;
                 } else {
@@ -54,10 +58,13 @@
 
         var layout = {
             margin: {
+                autosize: false,
                 l: 0,
                 r: 0,
                 b: 0,
-                t: 0
+                t: 0,
+                width: 800,
+                height: 800
             },
             xaxis: {tickvals: parameters}
         };
