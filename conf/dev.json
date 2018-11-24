@@ -1,0 +1,14 @@
+{
+  "elasticsearch": {
+    "hosts": ["ecsc00a0351e.epam.com:9200"]
+  },
+  "cloud": {
+    "pubsub": {
+      "topic": {
+        "telemetry": {
+          "id": "testReader"
+        }
+      }
+    }
+  }
+}
