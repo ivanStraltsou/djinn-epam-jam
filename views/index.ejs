@@ -9,6 +9,7 @@
 
   <link rel="manifest" href="site.webmanifest">
   <link rel="apple-touch-icon" href="icon.png">
+  <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
   <!-- Place favicon.ico in the root directory -->
 
 
@@ -21,8 +22,14 @@
 <div id="game">
   <div>
     <div class="login-wrap">
-      <h1 class="login-head">Enter your name</h1>
-      <div class="login"><form><input id="user" type="text" autofocus /><button id="start">Start test</button></form></div>
+      <h1 class="login-head">Enter your name</h1><form>
+      <div class="rate">
+        <label><input type="radio" name="check1" hidden value="0"/><i class="em em-nauseated_face"></i></label>
+        <label><input type="radio" name="check1" hidden value="1"/><i class="em em-neutral_face"></i></label>
+        <label><input type="radio" name="check1" hidden value="2"/><i class="em em-full_moon_with_face"></i></label>
+      </div>
+      <div class="login"><input id="user" type="text" autofocus /><button id="start">Start test</button></div>
+      </form>
     </div>
   </div>
   <div class="puzzleWrap">

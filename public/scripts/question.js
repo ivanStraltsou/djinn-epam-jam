@@ -893,7 +893,7 @@ $(function () {
     clearInterval(intervalId);
     const user = $('#user').val();
     const result = Date.now() - time;
-    
+
     $('#game').css('display', 'none');
     $('#results').css('visibility', 'visible');
     $('#result').text('Your result: ' + result/1000 + 's');
@@ -907,7 +907,8 @@ $(function () {
       body: JSON.stringify({
         timestamp: Date.now(),
         user: user,
-        result: result
+        result: result,
+        satisfaction: $("[type=radio]:checked").val()
       })
     })
   });

@@ -178,3 +178,18 @@ button::-moz-focus-inner {
 .text-big-font {
   font-size: 3em
 }
+
+.rate i {
+
+  font-size: 3em;
+
+  opacity: 0.6
+}
+
+.rate i:hover {
+  opacity: 0.9
+}
+
+.rate :checked + i {
+  opacity: 1
+}
