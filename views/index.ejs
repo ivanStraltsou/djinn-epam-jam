@@ -20,15 +20,15 @@
 <body>
 <div id="game">
   <div>
-    <div class="container">
-      <p>Enter your name</p>
-      <div class="container"><input id="user" type="text" /><button id="start">Start test</button></div>
+    <div class="login-wrap">
+      <h1 class="login-head">Enter your name</h1>
+      <div class="login"><form><input id="user" type="text" autofocus /><button id="start">Start test</button></form></div>
     </div>
   </div>
   <div class="puzzleWrap">
-    <p>Your current result:<span id="count">0</span><img id="clock" src="/walking-clock-preloader.gif" /></p>
-    <div id="puzzle"></div>
+    <p>Your current result: <span id="count">0</span><img id="clock" src="/walking-clock-preloader.gif" /></p>
     <div id="words"></div>
+    <div id="puzzle"></div>
   </div>
 </div>
 <div class="container" id="results">
