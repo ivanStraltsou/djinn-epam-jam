@@ -1,9 +1,9 @@
 const router = require('koa-router')()
 const elasticsearch = require.main.require('../modules/elk/elastic-client')
 
-router.get('/question', async (ctx, next) => {
+router.get('/', async (ctx, next) => {
   console.log(4)
-  await ctx.render('question', {
+  await ctx.render('index', {
     title: 'Questionnaire'
   })
 })
