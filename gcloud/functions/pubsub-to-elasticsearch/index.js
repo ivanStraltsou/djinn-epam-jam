@@ -1,6 +1,6 @@
 /**
  * Background Cloud Function to be triggered by Pub/Sub.
- * This function is exported by index.js, and executed when
+ * This function is exported by analytics.js, and executed when
  * the trigger topic receives a message.
  *
  * @param {object} data The event payload.

@@ -29,4 +29,30 @@ router.get('/json', async (ctx, next) => {
     }
 })
 
+router.get('/analytics-data', async (ctx, next) => {
+    var client = elasticsearch.getClient();
+
+    var a = await client.search({
+            index: 'telemetry',
+            type: '_doc',
+            body: {
+                query: {
+                        range: {
+                            timestamp: {
+                                gte: "now-1h"
+                            }
+                        }
+                    }
+                }
+        });
+
+    ctx.body = a
+})
+
+router.get('/analytics', async (ctx, next) => {
+    await ctx.render('analytics', {
+        title: 'Analytics'
+    })
+})
+
 module.exports = router

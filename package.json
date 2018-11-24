@@ -9,11 +9,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@google-cloud/pubsub": "0.21.1",
     "debug": "^2.6.3",
+    "elasticsearch": "^15.2.0",
+    "elasticsearch-browser": "^15.2.0",
     "koa": "^2.2.0",
     "koa-bodyparser": "^3.2.0",
-    "elasticsearch": "^15.2.0",
-    "@google-cloud/pubsub": "0.21.1",
     "koa-convert": "^1.2.0",
     "koa-json": "^2.0.2",
     "koa-logger": "^2.0.1",

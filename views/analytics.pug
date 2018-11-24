@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  div#plot
+  script(src='https://cdn.plot.ly/plotly-latest.min.js')
+  script(src='/scripts/analytics.js')
