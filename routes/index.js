@@ -56,4 +56,9 @@ router.get('/analytics', async (ctx, next) => {
     })
 })
 
+
+router.get('/map', async (ctx, next) => {
+    await ctx.render('office-map');
+})
+
 module.exports = router

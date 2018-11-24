@@ -1,0 +1,38 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+
+  <link rel="stylesheet" href="/stylesheets/question.css">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
+  <script src='/scripts/question.js'></script>
+</head>
+
+<body>
+<div id="game">
+  <div>
+    <div class="container">
+      <p>Enter your name</p>
+      <div class="container"><input id="user" type="text" /><button id="start">Start test</button></div>
+    </div>
+  </div>
+  <div class="puzzleWrap">
+    <p>Your current result:<span id="count">0</span><img id="clock" src="/walking-clock-preloader.gif" /></p>
+    <div id="puzzle"></div>
+    <div id="words"></div>
+  </div>
+</div>
+<div class="container" id="results">
+  <p id="result"></p><button id="again">Run test once again</button></div>
+</body>
+
+</html>
