@@ -6,15 +6,38 @@
 *     https://github.com/bunkat/wordfind
 */
 
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
 
 body {
   background: #306a8b;
+}
+
+.login-wrap {
+  text-align: center
+}
+
+.login-head {
+  font: 22pt sans-serif;
+  color: #6891ad
+}
+
+.login input {
+  font: 22pt sans-serif;
+  border: none;
+  height: 2em;
+  padding-left: 12px;
 }
 
 .puzzleWrap {
   visibility: hidden;
   width: 850px;
   margin: 50px auto 0;
+  text-align: center
 }
 
 p {
@@ -28,9 +51,7 @@ p {
 */
 #puzzle {
   padding: 20px;
-  float: left;
   margin: 30px 20px;
-  width: 500px;
 }
 
 #puzzle div {
@@ -40,14 +61,14 @@ p {
 
 /* style for each square in the puzzle */
 #puzzle .puzzleSquare {
-  height: 30px;
-  width: 30px;
+  height: 2em;
+  width: 2em;
   text-transform: uppercase;
   background-color: #306a8b;
   border: 0;
   outline: none;
-  font: 1em sans-serif;
-  color:   #6891ad;
+  font: 2em sans-serif;
+  color: #6891ad;
 }
 
 button::-moz-focus-inner {
@@ -91,10 +112,9 @@ button::-moz-focus-inner {
 // -webkit-column-gap: 20px;
 // column-count: 2;
 // column-gap: 20px;
-  width: 250px;
   color: #6891ad;
-  float: left;
-  margin-top: 37px;
+  max-width: 768px;
+  margin: 37px auto 0;
 }
 
 #words ul {
@@ -102,11 +122,10 @@ button::-moz-focus-inner {
 }
 
 #words li {
-  padding:  0 0 7px;
-  font: 1em sans-serif;
+  padding: 10px 40px;
+  font: 1.2em sans-serif;
   display: inline-block;
-  float: left;
-  width: 100px;
+  text-transform: uppercase;
 }
 
 /* indicates that the word has been found */
@@ -150,4 +169,12 @@ button::-moz-focus-inner {
   width: 50px;
   height: 50px;
   margin-left: 20px;
+}
+
+.text-warn {
+  color: #ee5426;
+}
+
+.text-big-font {
+  font-size: 3em
 }

@@ -829,10 +829,13 @@ $(function () {
   var words = ['account', 'money', 'interest', 'engineer'];
   var time;
   var intervalId;
-  
+
+  var $words = $('#words')
+  var $count = $('#count')
+
   function startTest() {
     time = Date.now();
-    $('#words').text('');
+    $words.text('');
     $('#count').text('0')
     var gamePuzzle = wordfindgame.create(
         words,
@@ -848,9 +851,22 @@ $(function () {
         {height: 5, width:15, fillBlanks: true}
     );
     wordfind.print(puzzle);
-  
+
+    var count = 0;
     intervalId = setInterval(function() {
-      $('#count').text(Number($('#count').text()) + 1);
+      count += 1;
+      $count.text(count);
+
+      if (count > 15) {
+          $count.css("color", "white")
+      }
+
+      if (count > 30) {
+        $count.css("color", "#ee5426")
+      }
+      if (count > 45) {
+        $count.addClass("text-big-font")
+      }
     }, 1000)
   }
   
@@ -860,18 +876,19 @@ $(function () {
   //   wordfindgame.solve(gamePuzzle, words);
   // });
 
-  
-  $('#start').click(function() {
-    startTest();
-    $('.puzzleWrap').css('visibility', 'visible');
-  });
-  
   $('#again').click(function() {
     $('#results').css('visibility', 'hidden');
     $('#game').css('display', 'block');
     startTest();
   });
-  
+
+  $('form').on("submit", function(e) {
+      e.preventDefault();
+      clearInterval(intervalId);
+      startTest();
+      $('.puzzleWrap').css('visibility', 'visible');
+  })
+
   $(document).on('complete', function() {
     clearInterval(intervalId);
     const user = $('#user').val();
