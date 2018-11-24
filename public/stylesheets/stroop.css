@@ -1,0 +1,63 @@
+* {
+  font-family: Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  background-color: black;
+  color: white;
+}
+
+#startstop,
+input {
+  font-size: 36pt;
+}
+
+#startstop,
+#content {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  vertical-align: middle;
+  text-align: center;
+}
+
+#start {
+  font-size: 48pt;
+  border: 3px solid silver;
+  border-radius: 12px;
+  -moz-border-radius: 12px;
+  -webkit-border-radius: 12px;
+  padding: 24px;
+  cursor: pointer;
+}
+
+#content {
+  padding: 2in;
+  cursor: pointer;
+  font-size: 120pt;
+  font-weight: bold;
+}
+
+#credit {
+  font-size: 10pt;
+  position: absolute;
+  bottom: 24px;
+  width: 100%;
+}
+
+#credit a,
+#credit a:hover,
+#credit a:link,
+#credit a:active {
+  color: white;
+  text-decoration: none;
+}
+
+a.credit:hover {
+  text-decoration: underline;
+}

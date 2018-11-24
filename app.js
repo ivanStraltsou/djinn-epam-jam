@@ -8,8 +8,10 @@ const logger = require('koa-logger')
 
 const index = require('./routes/index')
 const users = require('./routes/users')
+const question = require('./routes/question')
+const stroop = require('./routes/stroop')
 
-require('./modules/telemetry')
+// require('./modules/telemetry')
 
 // error handler
 onerror(app)
@@ -37,6 +39,8 @@ app.use(async (ctx, next) => {
 // routes
 app.use(index.routes(), index.allowedMethods())
 app.use(users.routes(), users.allowedMethods())
+app.use(question.routes(), question.allowedMethods())
+app.use(stroop.routes(), stroop.allowedMethods())
 
 // error-handling
 app.on('error', (err, ctx) => {

@@ -1,0 +1,26 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/question.css')
+    script(
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+      crossorigin="anonymous"
+    )
+    script(src='/scripts/question.js')
+  body
+    div#game
+      div
+        div.container
+          p Enter your name
+          div.container
+            input#user(
+              type='text'
+            )
+            button#start Start test
+      div.puzzleWrap
+        div#puzzle
+        div#words
+    p#results Result sent!
+      

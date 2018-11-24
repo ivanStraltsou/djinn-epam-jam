@@ -1,6 +1,6 @@
 {
   "elasticsearch": {
-    "hosts": ["ecsc00a0351e.epam.com:9200"]
+    "hosts": ["35.205.16.214:9200"]
   },
   "cloud": {
     "pubsub": {
