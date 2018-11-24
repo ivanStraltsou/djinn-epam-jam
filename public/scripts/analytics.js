@@ -40,7 +40,7 @@
 
                         type: 'scatter3d',
                         mode: 'lines+markers',
-                        name1: p.name,
+                        name: p.name,
                         symbol: 'circle',
                         line: {
                             width: 3,
@@ -79,25 +79,27 @@
         }, {});
 
         var layout = {
-            margin: {
-                autosize: false,
-                l: 0,
-                r: 0,
-                b: 100,
-                t: 0,
-                width: 800,
-                height: 800
-            },
-            aspectratio: {
-                x: 1, y: 1, z: 100,
-            },
-            xaxis: {
-                tickvals: []
-            },
-            zaxis: {
-                tickvals: parameters,
-                rangemode: "tozero",
-                autorange: true
+            scene: {
+                margin: {
+                    autosize: true,
+                    l: 0,
+                    r: 0,
+                    b: 100,
+                    t: 0,
+                    width: 800,
+                    height: 800
+                },
+                // aspectratio: {
+                //     x: 1, y: 1, z: 100,
+                // },
+                xaxis: {
+                    title: 'ABC',
+                    tickvals: parameters
+                },
+                zaxis: {
+                    rangemode: "tozero",
+                    autorange: true
+                }
             }
         };
 
@@ -117,7 +119,7 @@
         return series.map(function (s) {
             var denom = s.metrics.max - s.metrics.min;
             s.z = s.z.map(function (v) {
-                return 10 + ((v - s.metrics.min) / denom);
+                return 50 + ((v - s.metrics.min) / denom);
             });
 
             return s;
