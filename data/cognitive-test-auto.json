@@ -1,0 +1,936 @@
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4YA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"lera","result":23994,"timestamp":1542921123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"44A6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"ivan","result":41024,"timestamp":1542922323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5oA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"ivan","result":27560,"timestamp":1542924123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6IA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"Ivan Sharamet","result":57644,"timestamp":1542925323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8YA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"doctor X","result":24349,"timestamp":1542930723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9YA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"ivan","result":41445,"timestamp":1542933123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"A4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":56189,"timestamp":1542941523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"BYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":30164,"timestamp":1542942723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":19435,"timestamp":1542952923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":46001,"timestamp":1542957723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":14592,"timestamp":1542961923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":72095,"timestamp":1542969723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":14352,"timestamp":1542974523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":25342,"timestamp":1542979323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":56979,"timestamp":1542981723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"TIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":19237,"timestamp":1542985323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"UIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":20338,"timestamp":1542987723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"UYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":49913,"timestamp":1542988323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"UoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":52114,"timestamp":1542988923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"VoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":67159,"timestamp":1542991323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"W4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":27284,"timestamp":1542994323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"XYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":24353,"timestamp":1542995523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"YIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":69440,"timestamp":1542997323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"YYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":28058,"timestamp":1542997923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ZoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":56737,"timestamp":1543000923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"dIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":50002,"timestamp":1543009323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"goA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":61667,"timestamp":1543017723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"iYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":50867,"timestamp":1543021923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ioA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":38040,"timestamp":1543022523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"jIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":49609,"timestamp":1543023723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"koA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":58490,"timestamp":1543027323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"k4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":40482,"timestamp":1543027923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"l4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":35511,"timestamp":1543030323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"mYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":71415,"timestamp":1543031523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"nIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":55712,"timestamp":1543033323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"oIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":69896,"timestamp":1543035723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"pIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":37740,"timestamp":1543038123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"p4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":11841,"timestamp":1543039923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"soA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":31817,"timestamp":1543046523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"s4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":26445,"timestamp":1543047123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":53659,"timestamp":1543050723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":60567,"timestamp":1543051323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"vIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":71782,"timestamp":1543052523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"v4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":44963,"timestamp":1543054323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"wYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":11285,"timestamp":1543055523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"w4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":44329,"timestamp":1543056723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"y4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":24542,"timestamp":1543061523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":68023,"timestamp":1543063323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"z4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":68296,"timestamp":1543063923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1IA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":49380,"timestamp":1543066923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1YA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":49931,"timestamp":1543067523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4YA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":50460,"timestamp":1543074723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"44A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":40663,"timestamp":1543075923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5IA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":74328,"timestamp":1543076523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"64A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":59380,"timestamp":1543080723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7YA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":26079,"timestamp":1543081923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8YA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":13193,"timestamp":1543084323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9IA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":19640,"timestamp":1543086123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"tIBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":43525,"timestamp":1543086695402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"vIBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":15554,"timestamp":1543087895402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"wIBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":73562,"timestamp":1543088495402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yYBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":69519,"timestamp":1543089845402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zYBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"777","result":70144,"timestamp":1543086845402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"14BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":74304,"timestamp":1543088345402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2IBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":73562,"timestamp":1543088495402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"24BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":54103,"timestamp":1543088945402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4YBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":69519,"timestamp":1543089845402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6YBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":68564,"timestamp":1543087445402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"74BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":74304,"timestamp":1543088345402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-oBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":21186,"timestamp":1543089995402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":34478,"timestamp":1543037998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":58198,"timestamp":1543038448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":64139,"timestamp":1543038598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":39405,"timestamp":1543040548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":50660,"timestamp":1543041148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":20517,"timestamp":1543041448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":37912,"timestamp":1543041598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":15051,"timestamp":1543042198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":23771,"timestamp":1543042798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":26141,"timestamp":1543042948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":24142,"timestamp":1543043248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"O4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":36720,"timestamp":1543043698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":49698,"timestamp":1543043998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":67048,"timestamp":1543044448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":13667,"timestamp":1543044598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"R4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":65880,"timestamp":1543045498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":73757,"timestamp":1543045798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":28823,"timestamp":1543045948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"TYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":37828,"timestamp":1543046398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"UYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":53439,"timestamp":1543046998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"UoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":68056,"timestamp":1543047148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"VoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":15909,"timestamp":1543047748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"XIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":27878,"timestamp":1543048648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"dYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":38928,"timestamp":1543052398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"d4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":36776,"timestamp":1543052698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"eIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":48128,"timestamp":1543052848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"f4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":25930,"timestamp":1543053898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"g4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":55734,"timestamp":1543054498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"h4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":54092,"timestamp":1543055098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"iIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":61325,"timestamp":1543055248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"n4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":37423,"timestamp":1543058698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"oYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":60085,"timestamp":1543058998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"pYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":56279,"timestamp":1543059598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"q4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":72441,"timestamp":1543060498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"soFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":22063,"timestamp":1543061548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"tYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":45619,"timestamp":1543061998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":18295,"timestamp":1543062748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"voFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":26968,"timestamp":1543063348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"woFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":27295,"timestamp":1543063948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":50860,"timestamp":1543064548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"x4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":39482,"timestamp":1543064698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":49201,"timestamp":1543064998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"y4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":37700,"timestamp":1543065298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":72665,"timestamp":1543066048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":64482,"timestamp":1543066198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":65963,"timestamp":1543067998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":51358,"timestamp":1543068148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"34FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":45016,"timestamp":1543068298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":43555,"timestamp":1543068748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"54FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":30028,"timestamp":1543069498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":64895,"timestamp":1543069798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":37619,"timestamp":1543071448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":73775,"timestamp":1543072648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":11776,"timestamp":1543072798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":42940,"timestamp":1543072948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"AoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":14621,"timestamp":1543073548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"BoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":49663,"timestamp":1543074148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"CoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":59568,"timestamp":1543074748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"EYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":11541,"timestamp":1543075798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":45246,"timestamp":1543076248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"I4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":15923,"timestamp":1543078498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":20370,"timestamp":1543078648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"J4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":28697,"timestamp":1543079098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":73391,"timestamp":1543079248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":31792,"timestamp":1543080748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"M4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":24855,"timestamp":1543080898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":60354,"timestamp":1543083598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":20089,"timestamp":1543083748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"R4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":40553,"timestamp":1543083898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"TYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":19088,"timestamp":1543084798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"UoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":60053,"timestamp":1543085548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"WIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":53374,"timestamp":1543086448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"XYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":15131,"timestamp":1543087198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"XoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":36954,"timestamp":1543087348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"Y4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":51528,"timestamp":1543088098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"bIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":34265,"timestamp":1543089448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"bYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":28329,"timestamp":1543089598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"d4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":31582,"timestamp":1543091098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"goFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":46305,"timestamp":1543092748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"g4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":55407,"timestamp":1543092898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"hYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":50109,"timestamp":1543093198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"j4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":53789,"timestamp":1543094698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"kIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":57497,"timestamp":1543094848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"k4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":16976,"timestamp":1543095298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"lIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":41808,"timestamp":1543095448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"noFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":45215,"timestamp":1543096948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ooFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":72840,"timestamp":1543097548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"pYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":43281,"timestamp":1543097998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"poFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":27282,"timestamp":1543098148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"rYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":24212,"timestamp":1543099198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"toFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":39498,"timestamp":1543100548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":48260,"timestamp":1543100998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"v4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":51390,"timestamp":1543101898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":44698,"timestamp":1543102648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":71133,"timestamp":1543102798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"y4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":64417,"timestamp":1543103698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":65156,"timestamp":1543105198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":21629,"timestamp":1543108648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":12977,"timestamp":1543110148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":26896,"timestamp":1543110898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":38335,"timestamp":1543111498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"AIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":53943,"timestamp":1543111648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"DYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":66348,"timestamp":1543113598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"EIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":50971,"timestamp":1543114048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"G4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":26898,"timestamp":1543115698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":62339,"timestamp":1543116148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":16273,"timestamp":1543117048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":21874,"timestamp":1543117348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":49461,"timestamp":1543117948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":16906,"timestamp":1543118548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":12838,"timestamp":1543120048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"O4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":16833,"timestamp":1543120498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":66223,"timestamp":1543120948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":51101,"timestamp":1543121248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":15985,"timestamp":1543121548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":24865,"timestamp":1543122148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"R4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":26684,"timestamp":1543122298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":53734,"timestamp":1543122598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"S4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":15604,"timestamp":1543122898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"UIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":23872,"timestamp":1543123648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"UYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":36934,"timestamp":1543123798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"24A6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"Ivan Sharamet","result":59026,"timestamp":1542917523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3YA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"777","result":20082,"timestamp":1542918723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4oA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"Ivan Sharamet","result":61992,"timestamp":1542921723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5YA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"doctor X","result":15543,"timestamp":1542923523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"64A6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"Ivan Sharamet","result":12027,"timestamp":1542927123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7YA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"doctor X","result":45518,"timestamp":1542928323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7oA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"doctor X","result":64138,"timestamp":1542928923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"84A6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"doctor X","result":29215,"timestamp":1542931923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-IA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"lera","result":53132,"timestamp":1542934923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_IA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"Ivan Sharamet","result":42962,"timestamp":1542937323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_oA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"doctor X","result":52760,"timestamp":1542938523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_4A6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"ivan","result":32435,"timestamp":1542939123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"CoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":65148,"timestamp":1542945723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"DYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":48936,"timestamp":1542947523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"D4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":53604,"timestamp":1542948723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"EoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":46269,"timestamp":1542950523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":56319,"timestamp":1542951723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":18987,"timestamp":1542955323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"G4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":74303,"timestamp":1542955923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"H4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":68992,"timestamp":1542958323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":74767,"timestamp":1542960123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"I4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":71590,"timestamp":1542960723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":34766,"timestamp":1542966723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":50547,"timestamp":1542967323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"M4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":66458,"timestamp":1542970323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":37929,"timestamp":1542972123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"O4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":31444,"timestamp":1542975123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":65575,"timestamp":1542976323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":23951,"timestamp":1542976923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":46409,"timestamp":1542982923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"TYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":72325,"timestamp":1542985923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"XoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":49141,"timestamp":1542996123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ZIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":56002,"timestamp":1542999723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"aYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":50231,"timestamp":1543002723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"aoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":20000,"timestamp":1543003323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"cYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":69825,"timestamp":1543007523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"eYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":41651,"timestamp":1543012323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"eoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":17301,"timestamp":1543012923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"fYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":54355,"timestamp":1543014723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"f4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":20423,"timestamp":1543015923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"h4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":49531,"timestamp":1543020723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"kIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":62651,"timestamp":1543026123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"qYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":13031,"timestamp":1543041123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"rIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":39107,"timestamp":1543042923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"toA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":11447,"timestamp":1543048923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"t4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":53291,"timestamp":1543049523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"voA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":20901,"timestamp":1543053723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":69341,"timestamp":1543059723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0IA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":66309,"timestamp":1543064523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0oA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":69791,"timestamp":1543065723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1oA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":37081,"timestamp":1543068123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2IA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":30055,"timestamp":1543069323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2oA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":60931,"timestamp":1543070523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3oA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":53782,"timestamp":1543072923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"34A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":50432,"timestamp":1543073523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5YA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":57504,"timestamp":1543077123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5oA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":24957,"timestamp":1543077723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"54A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":64329,"timestamp":1543078323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7oA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":54224,"timestamp":1543082523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8oA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":31495,"timestamp":1543084923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"tYBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"777","result":70144,"timestamp":1543086845402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"vYBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":41154,"timestamp":1543088045402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"voBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"777","result":52556,"timestamp":1543088195402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1IBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":15554,"timestamp":1543087895402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2YBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":47454,"timestamp":1543088645402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3IBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"777","result":74901,"timestamp":1543089095402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"34BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":70453,"timestamp":1543089545402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4oBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":21186,"timestamp":1543089995402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"44BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":13432,"timestamp":1543090145402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"54BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":22003,"timestamp":1543087145402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6IBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":69657,"timestamp":1543087295402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"64BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":17002,"timestamp":1543087745402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7IBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":15554,"timestamp":1543087895402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8IBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":73562,"timestamp":1543088495402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-4BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":13432,"timestamp":1543090145402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"EoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":29738,"timestamp":1543037548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":37749,"timestamp":1543039198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"H4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":46459,"timestamp":1543039498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":50809,"timestamp":1543040398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":57094,"timestamp":1543040998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":33662,"timestamp":1543041748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"L4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":35919,"timestamp":1543041898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":21896,"timestamp":1543042048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":20956,"timestamp":1543042348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":64603,"timestamp":1543043548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":57669,"timestamp":1543043848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"P4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":74297,"timestamp":1543044298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"VYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":32772,"timestamp":1543047598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"WIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":61745,"timestamp":1543048048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"WoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":59180,"timestamp":1543048348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"X4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":21458,"timestamp":1543049098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"YoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":50215,"timestamp":1543049548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ZYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":57432,"timestamp":1543049998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ZoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":30074,"timestamp":1543050148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"Z4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":41584,"timestamp":1543050298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"aoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":29407,"timestamp":1543050748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"eYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":23399,"timestamp":1543052998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"hIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":19089,"timestamp":1543054648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"iYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":28029,"timestamp":1543055398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"jIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":40672,"timestamp":1543055848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"koFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":35446,"timestamp":1543056748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"moFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":23179,"timestamp":1543057948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"noFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":19576,"timestamp":1543058548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"oIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":74910,"timestamp":1543058848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"pIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":62569,"timestamp":1543059448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"poFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":63123,"timestamp":1543059748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"qIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":13740,"timestamp":1543060048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"qYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":34647,"timestamp":1543060198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"toFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":60604,"timestamp":1543062148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"wYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":73984,"timestamp":1543063798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":51284,"timestamp":1543064398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":56935,"timestamp":1543064848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":61837,"timestamp":1543065148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":28716,"timestamp":1543066648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":15944,"timestamp":1543066798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":23456,"timestamp":1543067548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"24FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":18822,"timestamp":1543067698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":23100,"timestamp":1543069048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":56937,"timestamp":1543069198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":43768,"timestamp":1543071148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":45359,"timestamp":1543071748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":13652,"timestamp":1543072048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":58523,"timestamp":1543072348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"AYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":59617,"timestamp":1543073398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"CYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":12650,"timestamp":1543074598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"DYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":32521,"timestamp":1543075198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"EIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":52154,"timestamp":1543075648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":16037,"timestamp":1543076548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"F4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":35077,"timestamp":1543076698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":28279,"timestamp":1543076848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":73537,"timestamp":1543076998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":18416,"timestamp":1543077598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":45397,"timestamp":1543078048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":28462,"timestamp":1543078348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":73411,"timestamp":1543079548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":66038,"timestamp":1543080148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":26977,"timestamp":1543081348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":30849,"timestamp":1543081798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":32260,"timestamp":1543082248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":74213,"timestamp":1543082848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"S4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":29215,"timestamp":1543084498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ToFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":63481,"timestamp":1543084948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"UIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":60247,"timestamp":1543085248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"VIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":55192,"timestamp":1543085848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"VoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":57637,"timestamp":1543086148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"X4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":57909,"timestamp":1543087498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"YIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":62294,"timestamp":1543087648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"YoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":66303,"timestamp":1543087948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"b4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":62154,"timestamp":1543089898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"c4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":15422,"timestamp":1543090498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"e4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":13524,"timestamp":1543091698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"foFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":44394,"timestamp":1543092148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"hoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":55712,"timestamp":1543093348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"iYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":21686,"timestamp":1543093798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"jYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":72622,"timestamp":1543094398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"koFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":35668,"timestamp":1543095148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"lYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":26624,"timestamp":1543095598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"loFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":69697,"timestamp":1543095748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"mIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":45105,"timestamp":1543096048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"m4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":27837,"timestamp":1543096498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"nIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":11387,"timestamp":1543096648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"n4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":63234,"timestamp":1543097098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"oYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":51727,"timestamp":1543097398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"qoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":47331,"timestamp":1543098748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"r4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":12916,"timestamp":1543099498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"tIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":40916,"timestamp":1543100248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":62352,"timestamp":1543103248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":13817,"timestamp":1543103548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":32033,"timestamp":1543103998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"z4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":53211,"timestamp":1543104298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"04FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":64467,"timestamp":1543104898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":30769,"timestamp":1543105348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":23917,"timestamp":1543105948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"44FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":11418,"timestamp":1543107298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":13947,"timestamp":1543107448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":27223,"timestamp":1543107748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"54FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":32458,"timestamp":1543107898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":45126,"timestamp":1543108798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":54586,"timestamp":1543108948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":65438,"timestamp":1543109248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":74539,"timestamp":1543109398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":24505,"timestamp":1543109998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":61509,"timestamp":1543110448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"AYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":41041,"timestamp":1543111798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"BIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":49352,"timestamp":1543112248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"BYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":63961,"timestamp":1543112398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"B4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":57783,"timestamp":1543112698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"C4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":11901,"timestamp":1543113298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"D4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":44608,"timestamp":1543113898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"EoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":12496,"timestamp":1543114348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":50856,"timestamp":1543115398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"H4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":23035,"timestamp":1543116298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":72391,"timestamp":1543116448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"I4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":36035,"timestamp":1543116898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":39812,"timestamp":1543118248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":38767,"timestamp":1543118398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":15259,"timestamp":1543118998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":38282,"timestamp":1543119148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":37752,"timestamp":1543119748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"P4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":32165,"timestamp":1543121098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":36221,"timestamp":1543122448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":11094,"timestamp":1543122748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2YA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"777","result":40339,"timestamp":1542916323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3IA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"777","result":12163,"timestamp":1542918123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4IA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"777","result":19929,"timestamp":1542920523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"54A6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"777","result":50820,"timestamp":1542924723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6YA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"ivan","result":53755,"timestamp":1542925923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"74A6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"doctor X","result":68282,"timestamp":1542929523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9oA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"ivan","result":74712,"timestamp":1542933723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"AIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":67023,"timestamp":1542939723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"AYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":35864,"timestamp":1542940323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"CIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":66148,"timestamp":1542944523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"C4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":21327,"timestamp":1542946323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"E4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":45750,"timestamp":1542951123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"F4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":55735,"timestamp":1542953523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":67605,"timestamp":1542954123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"J4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":55370,"timestamp":1542963123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":19273,"timestamp":1542963723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":19560,"timestamp":1542969123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":51202,"timestamp":1542973923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"Q4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":64138,"timestamp":1542979923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":70372,"timestamp":1542980523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ToA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":55655,"timestamp":1542986523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"U4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":51196,"timestamp":1542989523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"VIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":41610,"timestamp":1542990123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"VYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":72049,"timestamp":1542990723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"WIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":22254,"timestamp":1542992523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"WYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":47925,"timestamp":1542993123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"X4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":27391,"timestamp":1542996723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"aIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":33363,"timestamp":1543002123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"bYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":67757,"timestamp":1543005123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"b4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":17238,"timestamp":1543006323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"dYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":41740,"timestamp":1543009923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"doA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":22940,"timestamp":1543010523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"d4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":37167,"timestamp":1543011123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"e4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":50488,"timestamp":1543013523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"hYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":40071,"timestamp":1543019523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"hoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":43536,"timestamp":1543020123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"m4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":15027,"timestamp":1543032723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"nYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":50325,"timestamp":1543033923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"qoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":50367,"timestamp":1543041723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"q4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":27601,"timestamp":1543042323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"roA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":19292,"timestamp":1543044123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"vYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":57643,"timestamp":1543053123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":38427,"timestamp":1543057923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"04A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":44942,"timestamp":1543066323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2YA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":30847,"timestamp":1543069923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"24A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":57422,"timestamp":1543071123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3IA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":14912,"timestamp":1543071723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3YA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":15296,"timestamp":1543072323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"74A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":36727,"timestamp":1543083123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9YA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":17537,"timestamp":1543086723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"toBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":34456,"timestamp":1543086995402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uoBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":45655,"timestamp":1543087595402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"wYBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":47454,"timestamp":1543088645402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"woBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":63976,"timestamp":1543088795402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xoBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":40102,"timestamp":1543089395402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"x4BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":70453,"timestamp":1543089545402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yIBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":40379,"timestamp":1543089695402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yoBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":21186,"timestamp":1543089995402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zoBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":34456,"timestamp":1543086995402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0IBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":69657,"timestamp":1543087295402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0oBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":45655,"timestamp":1543087595402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"04BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":17002,"timestamp":1543087745402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1oBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"777","result":52556,"timestamp":1543088195402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3YBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":61979,"timestamp":1543089245402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3oBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":40102,"timestamp":1543089395402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4IBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":40379,"timestamp":1543089695402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9IBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"777","result":74901,"timestamp":1543089095402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9YBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":61979,"timestamp":1543089245402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9oBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":40102,"timestamp":1543089395402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-YBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":69519,"timestamp":1543089845402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":67651,"timestamp":1543037848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"F4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":37893,"timestamp":1543038298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":72564,"timestamp":1543039648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"I4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":70823,"timestamp":1543040098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"K4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":57248,"timestamp":1543041298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"N4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":19436,"timestamp":1543043098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"Q4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":68336,"timestamp":1543044898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":13910,"timestamp":1543045348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"S4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":28251,"timestamp":1543046098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"YIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":55171,"timestamp":1543049248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"Y4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":38979,"timestamp":1543049698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ZIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":37406,"timestamp":1543049848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"aYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":46609,"timestamp":1543050598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"b4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":12834,"timestamp":1543051498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"cIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":68167,"timestamp":1543051648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"c4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":16147,"timestamp":1543052098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"doFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":28661,"timestamp":1543052548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"eoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":57291,"timestamp":1543053148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"gIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":27430,"timestamp":1543054048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"goFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":62450,"timestamp":1543054348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"hoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":38149,"timestamp":1543054948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ioFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":38704,"timestamp":1543055548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"kYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":65223,"timestamp":1543056598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"lYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":62542,"timestamp":1543057198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"loFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":34127,"timestamp":1543057348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"l4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":11195,"timestamp":1543057498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"mYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":62819,"timestamp":1543057798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"m4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":65883,"timestamp":1543058098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"o4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":17295,"timestamp":1543059298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"roFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":19093,"timestamp":1543060948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"sIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":12456,"timestamp":1543061248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"tIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":29593,"timestamp":1543061848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"t4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":46195,"timestamp":1543062298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":35724,"timestamp":1543062598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"u4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":52798,"timestamp":1543062898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"v4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":27048,"timestamp":1543063498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":55689,"timestamp":1543065748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":74523,"timestamp":1543066948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"14FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":69318,"timestamp":1543067098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":17443,"timestamp":1543068448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"74FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":16993,"timestamp":1543070698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":72936,"timestamp":1543073098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"AIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":74717,"timestamp":1543073248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"BIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":13636,"timestamp":1543073848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":36347,"timestamp":1543078798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":46453,"timestamp":1543078948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":26123,"timestamp":1543079998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":26225,"timestamp":1543081048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"N4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":45822,"timestamp":1543081498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"O4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":18671,"timestamp":1543082098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"P4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":20481,"timestamp":1543082698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":12345,"timestamp":1543082998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"V4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":48392,"timestamp":1543086298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"aYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":54967,"timestamp":1543088998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"cIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":36122,"timestamp":1543090048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"gIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":21551,"timestamp":1543092448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ioFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":12328,"timestamp":1543093948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"mYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":73381,"timestamp":1543096198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"qYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":36309,"timestamp":1543098598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"roFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":21988,"timestamp":1543099348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"u4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":48212,"timestamp":1543101298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"vIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":72419,"timestamp":1543101448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"vYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":44996,"timestamp":1543101598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"wYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":36653,"timestamp":1543102198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"x4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":57900,"timestamp":1543103098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":27464,"timestamp":1543106248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":61354,"timestamp":1543106398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"34FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":57623,"timestamp":1543106698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":51503,"timestamp":1543108048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":64314,"timestamp":1543109848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":41664,"timestamp":1543111198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"BoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":70674,"timestamp":1543112548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"EYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":50106,"timestamp":1543114198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":69362,"timestamp":1543114948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":67485,"timestamp":1543115248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":35805,"timestamp":1543116748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":21185,"timestamp":1543117648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":72178,"timestamp":1543117798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"K4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":57931,"timestamp":1543118098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"L4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":60678,"timestamp":1543118698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":60131,"timestamp":1543119598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":34245,"timestamp":1543120348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":68229,"timestamp":1543120798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":38511,"timestamp":1543121398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"TIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":61022,"timestamp":1543123048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"TYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":53070,"timestamp":1543123198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5oAlR2cBGuIK8f6YEFKN","_score":1,"_source":{"user":"777","result":41549,"timestamp":1542913342087}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"14A6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"doctor X","result":31086,"timestamp":1542915123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2IA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"ivan","result":11384,"timestamp":1542915723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2oA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"777","result":23904,"timestamp":1542916923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3oA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"doctor X","result":33830,"timestamp":1542919323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6oA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"777","result":59411,"timestamp":1542926523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7IA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"777","result":47807,"timestamp":1542927723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8IA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"lera","result":41095,"timestamp":1542930123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9IA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"ivan","result":72086,"timestamp":1542932523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-oA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"Ivan Sharamet","result":29823,"timestamp":1542936123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_YA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"777","result":20847,"timestamp":1542937923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"BIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":72980,"timestamp":1542942123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"BoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":33152,"timestamp":1542943323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"CYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":74932,"timestamp":1542945123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"DIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":28758,"timestamp":1542946923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"EYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":52164,"timestamp":1542949923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":12887,"timestamp":1542956523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":24165,"timestamp":1542957123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":57043,"timestamp":1542959523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":28893,"timestamp":1542961323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":30905,"timestamp":1542962523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":39392,"timestamp":1542964323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":66228,"timestamp":1542964923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"K4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":35723,"timestamp":1542965523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":26947,"timestamp":1542970923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"N4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":60334,"timestamp":1542972723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":19319,"timestamp":1542973323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"P4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":56894,"timestamp":1542977523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":52657,"timestamp":1542978723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"S4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":18515,"timestamp":1542984723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"XIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":26769,"timestamp":1542994923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"YoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":17496,"timestamp":1542998523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"Y4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":48267,"timestamp":1542999123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"Z4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":70249,"timestamp":1543001523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"boA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":49823,"timestamp":1543005723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"cIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":28434,"timestamp":1543006923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"coA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":18065,"timestamp":1543008123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"c4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":17480,"timestamp":1543008723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"eIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":58019,"timestamp":1543011723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"gIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":44332,"timestamp":1543016523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"hIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":51935,"timestamp":1543018923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"joA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":74551,"timestamp":1543024923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"j4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":49801,"timestamp":1543025523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"kYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":65502,"timestamp":1543026723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"lIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":54991,"timestamp":1543028523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"moA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":35681,"timestamp":1543032123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"oYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":43177,"timestamp":1543036323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ooA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":25421,"timestamp":1543036923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"o4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":48707,"timestamp":1543037523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"poA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":74889,"timestamp":1543039323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"r4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":70313,"timestamp":1543044723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"tYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":25625,"timestamp":1543048323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"u4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":52108,"timestamp":1543051923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"wIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":66518,"timestamp":1543054923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"x4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":35150,"timestamp":1543059123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":61962,"timestamp":1543060323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":58677,"timestamp":1543060923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":53500,"timestamp":1543062723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0YA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":73142,"timestamp":1543065123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4oA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":63625,"timestamp":1543075323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8IA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":55243,"timestamp":1543083723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uIBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":69657,"timestamp":1543087295402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"v4BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":74304,"timestamp":1543088345402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"w4BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":54103,"timestamp":1543088945402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xYBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":61979,"timestamp":1543089245402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"y4BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":13432,"timestamp":1543090145402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zIBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":43525,"timestamp":1543086695402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"z4BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":22003,"timestamp":1543087145402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2oBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":63976,"timestamp":1543088795402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5IBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":43525,"timestamp":1543086695402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5YBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"777","result":70144,"timestamp":1543086845402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5oBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":34456,"timestamp":1543086995402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7oBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"777","result":52556,"timestamp":1543088195402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"84BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"ivan","result":54103,"timestamp":1543088945402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"94BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":70453,"timestamp":1543089545402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-IBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":40379,"timestamp":1543089695402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"E4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":13769,"timestamp":1543037698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":33454,"timestamp":1543038748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":31158,"timestamp":1543039048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":63980,"timestamp":1543039348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":54644,"timestamp":1543039798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":54944,"timestamp":1543039948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":22161,"timestamp":1543040848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":68390,"timestamp":1543042648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":41923,"timestamp":1543043398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":21406,"timestamp":1543044148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":53542,"timestamp":1543045048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":19514,"timestamp":1543045648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"T4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":41002,"timestamp":1543046698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"VIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":57092,"timestamp":1543047448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"V4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":59667,"timestamp":1543047898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"W4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":39714,"timestamp":1543048498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"bYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":29558,"timestamp":1543051198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"boFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":22228,"timestamp":1543051348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"coFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":15475,"timestamp":1543051948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"fIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":66414,"timestamp":1543053448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"gYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":17211,"timestamp":1543054198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"i4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":14866,"timestamp":1543055698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"jYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":64178,"timestamp":1543055998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"j4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":62271,"timestamp":1543056298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"k4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":60614,"timestamp":1543056898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"nIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":28415,"timestamp":1543058248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"nYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":21551,"timestamp":1543058398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ooFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":29262,"timestamp":1543059148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"p4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":63866,"timestamp":1543059898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"qoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":50495,"timestamp":1543060348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"rIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":14117,"timestamp":1543060648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"rYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":13931,"timestamp":1543060798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"sYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":31770,"timestamp":1543061398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"wIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":68495,"timestamp":1543063648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"w4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":53264,"timestamp":1543064098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":14181,"timestamp":1543064248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":17037,"timestamp":1543065598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":25001,"timestamp":1543067398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":25156,"timestamp":1543069348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":28131,"timestamp":1543069948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":64245,"timestamp":1543070398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":71882,"timestamp":1543070848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":20471,"timestamp":1543070998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"84FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":52360,"timestamp":1543071298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"A4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":27662,"timestamp":1543073698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"D4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":46643,"timestamp":1543075498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"EoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":60871,"timestamp":1543075948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":46135,"timestamp":1543077148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"G4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":30013,"timestamp":1543077298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":21793,"timestamp":1543077748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"H4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":32885,"timestamp":1543077898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":68525,"timestamp":1543078198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"KYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":59327,"timestamp":1543079398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"K4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":66217,"timestamp":1543079698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":66746,"timestamp":1543079848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"L4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":39468,"timestamp":1543080298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":28758,"timestamp":1543080598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":23643,"timestamp":1543082548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":15333,"timestamp":1543083148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"Q4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":28848,"timestamp":1543083298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":45539,"timestamp":1543084048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"UYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":37461,"timestamp":1543085398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"U4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":68600,"timestamp":1543085698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"WoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":55628,"timestamp":1543086748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"W4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":14012,"timestamp":1543086898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"XIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":66420,"timestamp":1543087048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ZIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":41862,"timestamp":1543088248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ZYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":36811,"timestamp":1543088398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"aIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":40532,"timestamp":1543088848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"aoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":69892,"timestamp":1543089148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"a4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":19588,"timestamp":1543089298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"cYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":23241,"timestamp":1543090198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"dYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":56666,"timestamp":1543090798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"doFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":11434,"timestamp":1543090948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"eYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":41944,"timestamp":1543091398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"fIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":60102,"timestamp":1543091848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"f4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":39082,"timestamp":1543092298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"iIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":44128,"timestamp":1543093648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"joFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":22405,"timestamp":1543094548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"moFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":61988,"timestamp":1543096348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"nYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":12573,"timestamp":1543096798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"sIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":54473,"timestamp":1543099648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"soFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":18980,"timestamp":1543099948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"t4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":26474,"timestamp":1543100698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":30451,"timestamp":1543100848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":22921,"timestamp":1543101148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"voFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":27012,"timestamp":1543101748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"w4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":46164,"timestamp":1543102498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":14513,"timestamp":1543104448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":15544,"timestamp":1543105048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"14FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":21869,"timestamp":1543105498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":23341,"timestamp":1543105798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"24FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":44129,"timestamp":1543106098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":28238,"timestamp":1543106548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":64395,"timestamp":1543106848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":13405,"timestamp":1543106998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":20127,"timestamp":1543107148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":16077,"timestamp":1543107598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":55566,"timestamp":1543108348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"64FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":22133,"timestamp":1543108498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"74FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":46720,"timestamp":1543109098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":62842,"timestamp":1543109548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":22236,"timestamp":1543110748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"A4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":46917,"timestamp":1543112098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"CIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":63291,"timestamp":1543112848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"CoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":23843,"timestamp":1543113148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"DIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":35635,"timestamp":1543113448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"F4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":62572,"timestamp":1543115098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":63614,"timestamp":1543115548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":21503,"timestamp":1543115848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":65841,"timestamp":1543115998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":33958,"timestamp":1543116598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"J4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":46893,"timestamp":1543117498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":37967,"timestamp":1543118848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"M4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":36543,"timestamp":1543119298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":48135,"timestamp":1543119448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"N4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"doctor X","result":46718,"timestamp":1543119898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":43209,"timestamp":1543120198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"Q4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":71411,"timestamp":1543121698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":37086,"timestamp":1543121848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":36516,"timestamp":1543121998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"T4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"777","result":56276,"timestamp":1543123498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"34A6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"doctor X","result":14427,"timestamp":1542919923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"5IA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"777","result":14681,"timestamp":1542922923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8oA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"ivan","result":39038,"timestamp":1542931323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"94A6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"ivan","result":51800,"timestamp":1542934323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-YA6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"ivan","result":17150,"timestamp":1542935523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-4A6R2cBGuIK8f6YgVmu","_score":1,"_source":{"user":"Ivan Sharamet","result":45529,"timestamp":1542936723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"AoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":12922,"timestamp":1542940923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"B4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":41656,"timestamp":1542943923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"DoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":72681,"timestamp":1542948123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"EIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":60643,"timestamp":1542949323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":60208,"timestamp":1542952323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"GYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":69417,"timestamp":1542954723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"IIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":61058,"timestamp":1542958923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"LIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":50709,"timestamp":1542966123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"L4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":41222,"timestamp":1542967923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":49315,"timestamp":1542968523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":56914,"timestamp":1542971523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":19031,"timestamp":1542975723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":42278,"timestamp":1542978123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":13027,"timestamp":1542981123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"R4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":26470,"timestamp":1542982323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":20318,"timestamp":1542983523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":27997,"timestamp":1542984123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"T4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":59010,"timestamp":1542987123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"V4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":44835,"timestamp":1542991923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"WoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":59546,"timestamp":1542993723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ZYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":73602,"timestamp":1543000323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"a4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":68458,"timestamp":1543003923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"bIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":31034,"timestamp":1543004523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"fIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":27610,"timestamp":1543014123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"foA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":46538,"timestamp":1543015323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"gYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":61690,"timestamp":1543017123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"g4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":18550,"timestamp":1543018323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"iIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":21817,"timestamp":1543021323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"i4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":31342,"timestamp":1543023123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"jYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":57518,"timestamp":1543024323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"lYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":69961,"timestamp":1543029123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"loA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":41246,"timestamp":1543029723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"mIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":56580,"timestamp":1543030923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"noA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":47024,"timestamp":1543034523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"n4A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":49982,"timestamp":1543035123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"pYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":15916,"timestamp":1543038723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"qIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":42005,"timestamp":1543040523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"rYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":51600,"timestamp":1543043523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"sIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":71247,"timestamp":1543045323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"sYA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":21753,"timestamp":1543045923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"tIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":73257,"timestamp":1543047723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":40020,"timestamp":1543050123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"woA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":61458,"timestamp":1543056123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"doctor X","result":65674,"timestamp":1543057323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xoA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":15313,"timestamp":1543058523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zIA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":14339,"timestamp":1543062123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"14A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":54502,"timestamp":1543068723303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4IA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":38480,"timestamp":1543074123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6IA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"lera","result":68286,"timestamp":1543078923303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6YA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":71319,"timestamp":1543079523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6oA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"ivan","result":38723,"timestamp":1543080123303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7IA6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"Ivan Sharamet","result":17083,"timestamp":1543081323303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"84A6R2cBGuIK8f6YgVqu","_score":1,"_source":{"user":"777","result":48829,"timestamp":1543085523303}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"t4BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":22003,"timestamp":1543087145402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uYBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":68564,"timestamp":1543087445402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"u4BbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":17002,"timestamp":1543087745402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xIBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"777","result":74901,"timestamp":1543089095402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0YBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":68564,"timestamp":1543087445402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"1YBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":41154,"timestamp":1543088045402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6oBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"lera","result":45655,"timestamp":1543087595402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7YBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":41154,"timestamp":1543088045402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8YBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"Ivan Sharamet","result":47454,"timestamp":1543088645402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"8oBbR2cBGuIK8f6YyWVz","_score":1,"_source":{"user":"doctor X","result":63976,"timestamp":1543088795402}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":34488,"timestamp":1543038148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"G4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":23756,"timestamp":1543038898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":11511,"timestamp":1543040248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"J4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":15875,"timestamp":1543040698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"M4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":73652,"timestamp":1543042498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"QoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":74288,"timestamp":1543044748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":37670,"timestamp":1543045198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"TIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":31123,"timestamp":1543046248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ToFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":22876,"timestamp":1543046548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"UIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":54345,"timestamp":1543046848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"U4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":65632,"timestamp":1543047298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"WYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":21552,"timestamp":1543048198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"XYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":40134,"timestamp":1543048798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"XoFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":63001,"timestamp":1543048948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"YYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":25177,"timestamp":1543049398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"aIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":52134,"timestamp":1543050448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"a4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":20094,"timestamp":1543050898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"bIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":13362,"timestamp":1543051048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"cYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":11094,"timestamp":1543051798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"dIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":52223,"timestamp":1543052248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"e4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":45045,"timestamp":1543053298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"fYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":28051,"timestamp":1543053598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"foFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":72445,"timestamp":1543053748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"hYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":72140,"timestamp":1543054798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"joFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":57160,"timestamp":1543056148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"kIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":38525,"timestamp":1543056448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"lIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":45914,"timestamp":1543057048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"mIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":62222,"timestamp":1543057648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"r4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":58229,"timestamp":1543061098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"s4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":36601,"timestamp":1543061698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"uIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":36313,"timestamp":1543062448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"vIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":28035,"timestamp":1543063048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"vYFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":56922,"timestamp":1543063198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zIFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":28344,"timestamp":1543065448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"z4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":39608,"timestamp":1543065898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":16510,"timestamp":1543066348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"04FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":59358,"timestamp":1543066498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":28807,"timestamp":1543067248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"3IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":24053,"timestamp":1543067848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"4YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"ivan","result":41777,"timestamp":1543068598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"44FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":45629,"timestamp":1543068898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":15340,"timestamp":1543069648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"64FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":58218,"timestamp":1543070098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7IFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":73747,"timestamp":1543070248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"7oFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":70789,"timestamp":1543070548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"9YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"Ivan Sharamet","result":25209,"timestamp":1543071598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"94FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"lera","result":22915,"timestamp":1543071898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-YFcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"doctor X","result":35009,"timestamp":1543072198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-4FcSWcBGuIK8f6Ythv4","_score":1,"_source":{"user":"777","result":56153,"timestamp":1543072498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"BYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":28989,"timestamp":1543073998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"B4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":71057,"timestamp":1543074298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"CIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":50475,"timestamp":1543074448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"C4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":16022,"timestamp":1543074898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"DIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":51810,"timestamp":1543075048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"DoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":37249,"timestamp":1543075348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"E4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":67771,"timestamp":1543076098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":33629,"timestamp":1543076398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"HIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":29971,"timestamp":1543077448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"MIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":34049,"timestamp":1543080448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"NYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":62038,"timestamp":1543081198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":73317,"timestamp":1543081648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"OoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":68273,"timestamp":1543081948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":47690,"timestamp":1543082398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"RIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":65436,"timestamp":1543083448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":45423,"timestamp":1543084198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"SoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":31574,"timestamp":1543084348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"TIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":28581,"timestamp":1543084648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"T4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":24592,"timestamp":1543085098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"VYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":18778,"timestamp":1543085998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"WYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":24278,"timestamp":1543086598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"YYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":21806,"timestamp":1543087798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ZoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":67613,"timestamp":1543088548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"Z4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":18475,"timestamp":1543088698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"boFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":57033,"timestamp":1543089748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"coFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":38987,"timestamp":1543090348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"dIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":38923,"timestamp":1543090648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"eIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":22394,"timestamp":1543091248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"eoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":62092,"timestamp":1543091548867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"fYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":59949,"timestamp":1543091998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"gYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":12408,"timestamp":1543092598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"hIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":13650,"timestamp":1543093048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"h4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":26058,"timestamp":1543093498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"i4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":62251,"timestamp":1543094098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"jIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":30241,"timestamp":1543094248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"kYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":26680,"timestamp":1543094998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"l4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":35276,"timestamp":1543095898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"oIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":74057,"timestamp":1543097248867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"o4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":71499,"timestamp":1543097698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"pIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":74363,"timestamp":1543097848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"p4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":42981,"timestamp":1543098298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"qIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":55815,"timestamp":1543098448867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"q4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":59475,"timestamp":1543098898867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"rIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":72782,"timestamp":1543099048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"sYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":31955,"timestamp":1543099798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"s4FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":50334,"timestamp":1543100098867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"tYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":23308,"timestamp":1543100398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"wIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":43902,"timestamp":1543102048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"woFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":46856,"timestamp":1543102348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"xoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":31022,"timestamp":1543102948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"yYFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":65448,"timestamp":1543103398867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zIFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"Ivan Sharamet","result":59559,"timestamp":1543103848867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"zoFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":46416,"timestamp":1543104148867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"ivan","result":12522,"timestamp":1543104598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"0oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":45811,"timestamp":1543104748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"2IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"doctor X","result":74024,"timestamp":1543105648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"6YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":23113,"timestamp":1543108198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"84FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"lera","result":35190,"timestamp":1543109698867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"94FcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":31303,"timestamp":1543110298867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"-YFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":18796,"timestamp":1543110598867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_IFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":74666,"timestamp":1543111048867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"_oFcSWcBGuIK8f6Ythz4","_score":1,"_source":{"user":"777","result":28731,"timestamp":1543111348867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"AoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":23749,"timestamp":1543111948867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"CYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":50553,"timestamp":1543112998867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"DoFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":61160,"timestamp":1543113748867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"E4FcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":64119,"timestamp":1543114498867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":23536,"timestamp":1543114648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"FYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":62628,"timestamp":1543114798867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"JYFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"lera","result":61834,"timestamp":1543117198867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"PIFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"Ivan Sharamet","result":34519,"timestamp":1543120648867}}
+{"_index":"cognitive-test-auto","_type":"_doc","_id":"ToFcSWcBGuIK8f6Yth34","_score":1,"_source":{"user":"ivan","result":53996,"timestamp":1543123348867}}
