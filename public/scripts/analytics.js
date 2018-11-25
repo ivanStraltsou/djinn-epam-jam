@@ -28,6 +28,9 @@
 
         var combinedData = telemetry.concat(productivity);
 
+        var maxTime = new Date();
+        var minTime = moment(maxTime).subtract(60, 'minutes').toDate();
+
         var plotData = combinedData.reduce(function (acc, hit) {
 
             var source = hit._source;
@@ -77,7 +80,8 @@
                         traceData = acc[pName];
                     }
 
-                    traceData.x.push(pName);
+                    // traceData.x.push(pName);
+                    traceData.x.push(i);
                     traceData.y.push(pTime);
                     traceData.z.push(pVal);
                     traceData.text.push(`${pName}<br>Time: ${pFormattedTime}<br>Value: ${pVal}`);
@@ -107,13 +111,16 @@
                     width: 800,
                     height: 800
                 },
+                // xaxis: {
+                //     tickvals: ['CO2', 'Humidity', 'Light', 'Noise', 'Pressure', 'TVOC', 'Temperature', 'Vibration', 'Productivity']
+                // },
                 yaxis: {
                     tickformat: function (e) {
                         moment(new Date(e)).format('HH:mm:ss');
                     }
                 },
                 zaxis: {
-                    range: [-20, 20]
+                    range: [-1, 2]
                 }
             }
         };
@@ -126,7 +133,34 @@
             return acc;
         }, []);
 
-         Plotly.newPlot('plot', normalize(orderedPlotData), layout);
+        var lowerBound = {
+            x: [8, 0, 0, 8],
+            y: [minTime, minTime, maxTime, maxTime],
+            z: [0, 0, 0, 0],
+            type: 'scatter3d',
+            mode: 'lines+markers',
+            name: "Lower Bound",
+            symbol: 'circle',
+            surfaceaxis: 2,
+            surfacecolor: "#a3dff7",
+            opacity: 0.3
+        };
+
+        var upperBound = {
+            x: [8, 0, 0, 8],
+            y: [minTime, minTime, maxTime, maxTime],
+            z: [1, 1, 1, 1],
+            type: 'scatter3d',
+            mode: 'lines+markers',
+            name: "Upper Bound",
+            symbol: 'circle',
+            surfaceaxis: 2,
+            surfacecolor: "#f27689",
+            opacity: 0.3
+        };
+
+        Plotly.newPlot('plot', normalize(orderedPlotData).concat([lowerBound, upperBound]), layout);
+        // Plotly.newPlot('plot', normalize(orderedPlotData), layout);
 
     }, function (err) {
         console.trace(err.message);
