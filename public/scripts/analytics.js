@@ -40,7 +40,7 @@
                     var traceData;
 
                     var pVal = source[p.key];
-                    var pTime = new Date(source.timestamp); //moment(new Date(source.timestamp)).format('HH:mm:ss');
+                    var pTime = new Date(source.timestamp);
                     var pFormattedTime = moment(pTime).format('YYYY-MM-DD HH:mm:ss');
 
                     if (!acc.hasOwnProperty(pName)) {
@@ -103,17 +103,13 @@
                     width: 800,
                     height: 800
                 },
-                // aspectratio: {
-                //     x: 1, y: 1, z: 100,
-                // },
                 yaxis: {
                     tickformat: function (e) {
                         moment(new Date(e)).format('HH:mm:ss');
                     }
                 },
                 zaxis: {
-                    rangemode: "tozero",
-                    autorange: true
+                    range: [-20, 20]
                 }
             }
         };
@@ -126,8 +122,6 @@
             return acc;
         }, []);
 
-        console.log(orderedPlotData);
-
         Plotly.newPlot('plot', normalize(orderedPlotData), layout);
 
     }, function (err) {
@@ -138,8 +132,9 @@
     function normalize(series) {
         return series.map(function (s) {
             var denom = s.metrics.max - s.metrics.min;
+
             s.z = s.z.map(function (v) {
-                return 50 + (denom === 0 ? 1 : ((v - s.metrics.min) / denom));
+                return denom === 0 ? 1 : ((v - s.metrics.min) / denom);
             });
 
             return s;
@@ -148,11 +143,13 @@
 
     function markerColor(parameter, parameterValue, defaultColor) {
         var color = defaultColor;
+
         if (parameter.min != parameter.max) {
             if (parameterValue < parameter.min || parameterValue > parameter.max) {
                 color = 'rgb(255, 0, 0)'
             }
         }
+
         return color;
     }
 })();
