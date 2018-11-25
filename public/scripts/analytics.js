@@ -19,7 +19,7 @@
             {key: 'TVOC', min: 0, max: 0, color: '#8eb8d3'},
             {key: 'Temperature', min: 21, max: 25, color: '#a7cfe9'},
             {key: 'Vibration', min: 0, max: 0, color: '#c1e7ff'},
-            {key: 'result', name: "Productivity", min: 0, max: 0, color: '#00ff00'}
+            {key: 'result', name: "Productivity", min: 0, max: 45000, color: '#00ff00'}
         ];
 
         var telemetry = resp.telemetry.hits.hits;
@@ -40,7 +40,8 @@
                     var traceData;
 
                     var pVal = source[p.key];
-                    var pTime = moment(new Date(source.timestamp)).format('hh:mm:ss');
+                    var pTime = new Date(source.timestamp); //moment(new Date(source.timestamp)).format('HH:mm:ss');
+                    var pFormattedTime = moment(pTime).format('YYYY-MM-DD HH:mm:ss');
 
                     if (!acc.hasOwnProperty(pName)) {
                         traceData = {
@@ -59,7 +60,7 @@
                             },
                             marker: {
                                 size: 5,
-                                color: markerColor(p, pVal)
+                                color: []
                             },
                             metrics: {
                                 min: pVal,
@@ -75,7 +76,8 @@
                     traceData.x.push(pName);
                     traceData.y.push(pTime);
                     traceData.z.push(pVal);
-                    traceData.text.push(`${pName}<br>Time: ${pTime}<br>Value: ${pVal}`);
+                    traceData.text.push(`${pName}<br>Time: ${pFormattedTime}<br>Value: ${pVal}`);
+                    traceData.marker.color.push(markerColor(p, pVal, p.color));
 
                     if (pVal < traceData.metrics.min) {
                         traceData.metrics.min = pVal;
@@ -104,6 +106,11 @@
                 // aspectratio: {
                 //     x: 1, y: 1, z: 100,
                 // },
+                yaxis: {
+                    tickformat: function (e) {
+                        moment(new Date(e)).format('HH:mm:ss');
+                    }
+                },
                 zaxis: {
                     rangemode: "tozero",
                     autorange: true
@@ -118,6 +125,8 @@
             }
             return acc;
         }, []);
+
+        console.log(orderedPlotData);
 
         Plotly.newPlot('plot', normalize(orderedPlotData), layout);
 
@@ -137,8 +146,8 @@
         });
     }
 
-    function markerColor(parameter, parameterValue) {
-        var color = null; // 'rgb(51, 153, 255)';
+    function markerColor(parameter, parameterValue, defaultColor) {
+        var color = defaultColor;
         if (parameter.min != parameter.max) {
             if (parameterValue < parameter.min || parameterValue > parameter.max) {
                 color = 'rgb(255, 0, 0)'

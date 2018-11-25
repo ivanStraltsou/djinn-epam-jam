@@ -33,27 +33,34 @@ router.get('/analytics-data', async (ctx, next) => {
                 query: {
                         range: {
                             timestamp: {
-                                gte: "now-30m"
+                                gte: 'now-1h'
                             }
                         }
-                    }
-                },
+                    },
+                sort : [
+                    { timestamp : {order : 'asc'}}
+                ],
                 size: 10000
+            }
+
         });
 
     var productivity = await client.search({
-        index: 'cognitive-test',
+        index: 'cognitive-test-auto',
         type: '_doc',
         body: {
             query: {
                 range: {
                     timestamp: {
-                        gte: "now-30m"
+                        gte: "now-1h"
                     }
                 }
-            }
-        },
-        size: 10000
+            },
+            sort : [
+                { timestamp : {order : 'asc'}}
+            ],
+            size: 10000
+        }
     });
 
     ctx.body = {
