@@ -66,6 +66,10 @@
                                 min: pVal,
                                 max: pVal
                             },
+                            comfortRange: {
+                                min: p.min,
+                                max: p.max
+                            },
                             hoverinfo: 'text'
                         };
                         acc[pName] = traceData;
@@ -122,7 +126,7 @@
             return acc;
         }, []);
 
-        Plotly.newPlot('plot', normalize(orderedPlotData), layout);
+         Plotly.newPlot('plot', normalize(orderedPlotData), layout);
 
     }, function (err) {
         console.trace(err.message);
@@ -131,10 +135,10 @@
 
     function normalize(series) {
         return series.map(function (s) {
-            var denom = s.metrics.max - s.metrics.min;
+            var denom = s.comfortRange.max - s.comfortRange.min;
 
             s.z = s.z.map(function (v) {
-                return denom === 0 ? 1 : ((v - s.metrics.min) / denom);
+                return denom === 0 ? 1 : ((v - s.comfortRange.min) / denom);
             });
 
             return s;
