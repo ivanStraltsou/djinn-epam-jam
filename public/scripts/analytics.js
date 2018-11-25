@@ -19,7 +19,7 @@
             {key: 'TVOC', min: 0, max: 0, color: '#8eb8d3'},
             {key: 'Temperature', min: 21, max: 25, color: '#a7cfe9'},
             {key: 'Vibration', min: 0, max: 0, color: '#c1e7ff'},
-            {key: 'result', name: "Productivity", min: 0, max: 45000, color: '#00ff00'}
+            {key: 'result', name: "Productivity", min: 0, max: 45000, color: '#99e699'}
         ];
 
         var telemetry = resp.telemetry.hits.hits;
@@ -98,7 +98,7 @@
                     autosize: true,
                     l: 0,
                     r: 0,
-                    b: 100,
+                    b: 0,
                     t: 0,
                     width: 800,
                     height: 800
@@ -146,7 +146,7 @@
 
         if (parameter.min != parameter.max) {
             if (parameterValue < parameter.min || parameterValue > parameter.max) {
-                color = 'rgb(255, 0, 0)'
+                color = '#ff5050'
             }
         }
 
